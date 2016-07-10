@@ -1,3 +1,5 @@
+'use babel';
+
 import PomodoroAppView from '../lib/pomodoro-app-view';
 
 describe("PomodoroAppView", () =>

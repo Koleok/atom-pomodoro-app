@@ -1,3 +1,4 @@
+// 'use babel';
 // import PomodoroApp from '../lib/pomodoro-app';
 //
 // // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
