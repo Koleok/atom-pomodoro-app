@@ -1,0 +1,15 @@
+{
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "pomodoro-app",
+      "submenu": [{
+        "label": "Toggle Timer",
+        "command": "atom-pomodoro-app:toggleTimer"
+      }, {
+        "label": "Stop/Reset",
+        "command": "atom-pomodoro-app:stopTimer"
+      }]
+    }]
+  }]
+}

@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-j": "atom-pomodoro-app:toggleTimer",
+    "ctrl-alt-k": "atom-pomodoro-app:stopTimer"
+  }
+}
