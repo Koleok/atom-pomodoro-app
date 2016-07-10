@@ -1,5 +1,5 @@
 {
-  "name": "atom-pomodoro-app",
+  "name": "pomodoro-tracking",
   "main": "./lib/index",
   "version": "0.0.0",
   "description": "Provides easy pomodoro productivity right in the editor.",
@@ -17,11 +17,10 @@
       }
     }
   },
-  "repository": "https://github.com/atom/pomodoro-app",
+  "repository": "https://github.com/Koleok/atom-pomodoro-tracking",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
